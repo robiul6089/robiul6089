@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Robiul Hasan
 #### Facebook Gaming Streamer & YouTuber
-![Facebook Gaming Streamer & YouTuber]
 
-𝐍𝐄𝐕𝐄𝐑 𝐆𝐈𝐕𝐄 𝐔𝐏 ! (https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/335202461_130998726574880_2704043096248861823_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeH0uMjsShqyuF1hCvnsuZbYcXQOiHDjixBxdA6IcOOLEIrRrG5cmuOPCx5bOCbRqDe5Gxzr4dPWrCmFTXOzojVj&_nc_ohc=jyoL7NF_4a0AX_SF9ZI&_nc_ht=scontent.fdac140-1.fna&oh=00_AfBzGetvDzehfwuEOsu_ttdeOoSS_qyLPRZ6m7G6CDf_Dg&oe=647A4466)
+𝐍𝐄𝐕𝐄𝐑 𝐆𝐈𝐕𝐄 𝐔𝐏 ! ![Facebook Gaming Streamer & YouTuber](https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/335202461_130998726574880_2704043096248861823_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeH0uMjsShqyuF1hCvnsuZbYcXQOiHDjixBxdA6IcOOLEIrRrG5cmuOPCx5bOCbRqDe5Gxzr4dPWrCmFTXOzojVj&_nc_ohc=jyoL7NF_4a0AX_SF9ZI&_nc_ht=scontent.fdac140-1.fna&oh=00_AfBzGetvDzehfwuEOsu_ttdeOoSS_qyLPRZ6m7G6CDf_Dg&oe=647A4466)
 
 Skills: GAMING / REACT / JS / HTML / CSS / VIDEO EDITING / 
 
